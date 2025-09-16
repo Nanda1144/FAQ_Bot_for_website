@@ -1,0 +1,23 @@
+{
+  "name": "faq-bot",
+  "version": "1.0.0",
+  "description": "FAQ Bot for website",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "keywords": [
+    "faq",
+    "bot",
+    "chatbot"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
